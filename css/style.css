@@ -14,13 +14,9 @@ header {
   body {
     
     font-family: "Open Sans", sans-serif;
-    
     position: relative;
-   
-    
-   margin: auto;
-   
-  
+    margin: auto;
+     
   }
  
 
@@ -33,14 +29,6 @@ header {
   h2 {
     border-bottom: 1px solid #bbb;
   }
-
-  nav a {
-    color: #033e53;
-    text-decoration: none;
-  }
-  
-
-  
 
   header img {
   width: 200px;
@@ -82,26 +70,8 @@ header {
       display: block;
       padding-bottom: 60px;
   }
-  @media only screen and ( min-width: 1025px ) {
-  .column-wrap {
-    
-    margin: 10px;
-    overflow: hidden;
-  }
-  .column {
-    padding: 0 5px;
-    float: left;
-  }
-  .column-wrap .one-third {
-    width: 33.33%;
-  }
+ 
 
-  .sectionclass{
-    width:300px;
-    display: grid;
-  width: 100%;
-
-}
 section {
   border: solid;
   
@@ -117,4 +87,4 @@ section {
       margin-right: 50px;
       text-align: left;
     }
-  }
+  
